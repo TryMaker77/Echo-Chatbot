@@ -1,0 +1,22 @@
+#This project was made in my 4th period health class. I really hate this class.
+print("""
+-----------------------------------------
+ ________            __                 
+/        |          /  |                
+$$$$$$$$/   _______ $$ |____    ______  
+$$ |__     /       |$$      \  /      \ 
+$$    |   /$$$$$$$/ $$$$$$$  |/$$$$$$  |
+$$$$$/    $$ |      $$ |  $$ |$$ |  $$ |
+$$ |_____ $$ \_____ $$ |  $$ |$$ \__$$ |
+$$       |$$       |$$ |  $$ |$$    $$/ 
+$$$$$$$$/  $$$$$$$/ $$/   $$/  $$$$$$/  
+By TR77
+Powered By CodeAdecemy 
+------------------------------------------""")
+print("---Welcome to Echo Framework v1.8")
+print("---Echo is a simple bot that repeats what you say.")
+stuff_to_echo = input("---Yell into the Echo chamber: ")
+print("---The chamber echoes: " + stuff_to_echo)
+print("""-----------------------------------------
+---The doors to the Echo chanber close and the silence returns...
+-----------------------------------------""")
